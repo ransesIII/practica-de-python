@@ -1,13 +1,7 @@
-print('hola mundo')
+# Relacion Grados sexagesimal y Radian
 
-a  = 5
-b = 4 
-c = a * b
 
-d = (a // b) * 3
+GRADOS = 45
 
-print(d)
-
-print(c)
-
-print('soy superman')
+def grados_Radianes():
+    pass
