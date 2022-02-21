@@ -2,5 +2,3 @@ este es el primer ensayo de commit en git
 HOLA MUNDO
 
 yo soy el patron del mundo 
-
-tambien soy Zeus
