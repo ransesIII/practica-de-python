@@ -1,8 +1,5 @@
 hola mundo
 
-<<<<<<< HEAD
 hoy me siento feliz
-=======
 
 soy el rey del mundo
->>>>>>> nueva_rama
