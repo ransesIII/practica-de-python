@@ -1,7 +1,9 @@
 # Relacion Grados sexagesimal y Radian
 def main():
 
-    PI = 3.1415
+    import math
+
+    PI = math.pi()
 
     def grados_Radianes(grados, radianes):
         GRADOS = (radianes * 360) / (2 * PI)
