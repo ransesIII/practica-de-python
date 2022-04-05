@@ -28,6 +28,11 @@ def main():
         resultadoRadianes = round(DeGrados_Radianes(grados), 2)
         print(f'{resultadoRadianes} Radianes')
     
+    # puedo meter toda este programa en una funcion y crear otra funcion que 
+    # contenga a otro programa, con el fin de hacer mi programa mas estructurado
+
+
+    
     
     # resultado = round(grados_Radianes(), 2)
     # print(f'Tus radianes a grados son {resultado} grados')
